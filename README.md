@@ -13,8 +13,10 @@ Features
 - Visualization: Provides visual representations of data to aid in the interpretation and comparison of exoplanetary conditions.
 
 ## Data Sources
-- NASA Exoplanet Archive
-- Extrasolar Planets Encyclopaedia
-- 
+- [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
+- [MAST](https://archive.stsci.edu/)
+- [ESI Explanation](https://phl.upr.edu/projects/earth-similarity-index-esi)
+- [Kelper's Third Law](https://physics.bu.edu/~redner/211-sp06/class16/kepler3.html)
+  
 ## Contributing
 Contributions to the NASA-Data-Interpolation project are welcome! If you have suggestions, bug reports, or improvements, please open an issue or submit a pull request.
